@@ -24,7 +24,7 @@ The > symbol acts as a separator of the attribute and the attribute value.
 If an HTML tag has no attribute then simply print the name of the tag.  
 If an attribute has no attribute value then simply print the name of the attribute value as None.  
 
-**Note:** Do not detect any HTML tag, attribute or attribute value inside the HTML comment tags (<!-- Comments -->).Comments can be multiline as well.  
+**Note:** Do not detect any HTML tag, attribute or attribute value inside the HTML comment tags (`<!-- Comments -->`).Comments can be multiline as well.  
 
 **Input Format**
 
