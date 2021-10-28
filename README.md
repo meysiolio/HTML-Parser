@@ -28,8 +28,8 @@ If an attribute has no attribute value then simply print the name of the attribu
 
 **Input Format**
 
-The first line contains integer , the number of lines in a HTML code snippet.  
-The next  lines contain HTML code.  
+The first line contains integer ***N***, the number of lines in a HTML code snippet.  
+The next ***N*** lines contain HTML code.  
 
 **Output Format**
 
